@@ -1,0 +1,5 @@
+{
+  "name": "Kubernetes Task Runner",
+  "description": "A web interface to simulate running commands as Kubernetes pods. This application provides the necessary Docker and Kubernetes manifests for deployment and includes a Gemini-powered manifest generator.",
+  "requestFramePermissions": []
+}
